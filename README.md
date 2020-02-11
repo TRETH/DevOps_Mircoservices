@@ -1,4 +1,4 @@
-[![TRETH](https://circleci.com/gh/TRETH/Operationalize_A_Machine_Learning_Microservice_API.svg?style=svg)]
+[![CircleCI](https://circleci.com/gh/TRETH/Operationalize_A_Machine_Learning_Microservice_API.svg?style=svg)](https://circleci.com/gh/TRETH/Operationalize_A_Machine_Learning_Microservice_API)
 
 ## Project Overview
 

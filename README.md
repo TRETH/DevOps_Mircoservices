@@ -18,9 +18,7 @@ My project goal was to operationalize this working, machine learning microservic
 * Deployed a container using Kubernetes and made a prediction
 * Uploaded a complete Github repo with CircleCI to indicate that my code had been tested
 
-The detailed [project rubric, here](https://review.udacity.com/#!/rubrics/2576/view).
-
-**The final implementation of the project will showcase your abilities to operationalize production microservices.**
+The detailed [project rubric, can be found here](https://review.udacity.com/#!/rubrics/2576/view).
 
 ---
 
@@ -47,8 +45,8 @@ The detailed [project rubric, here](https://review.udacity.com/#!/rubrics/2576/v
 1. Standalone:  `python app.py`
 2. Run in Docker:  `./run_docker.sh`
 3. Run in Kubernetes:  `./run_kubernetes.sh`
-4. Upload Docker Image to Docker Hub: ./upload_docker.sh
-5. Make a prediction: ./make_prediction.sh
+4. Upload Docker Image to Docker Hub: `./upload_docker.sh`
+5. Make a prediction: `./make_prediction.sh`
 
 ### Kubernetes Steps
 
